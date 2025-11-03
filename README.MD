@@ -1,6 +1,5 @@
 <!-- ============================================================ -->
 <!-- README PERSONALIZADO — RÚBIA C. OLIVEIRA                     -->
-<!-- Tema: Pastel (marrons e alaranjados) | Estilo anime retrô   -->
 <!-- ============================================================ -->
 
 <p align="center">
@@ -76,12 +75,11 @@
 
 ## 👩‍💻 Sobre mim
 
-<p>
+<p align="center">
   <img 
-    align="left" 
-    width="90" 
-    src="https://avatars.githubusercontent.com/olivru" 
-    alt="Foto de perfil de Rúbia C. Oliveira"
+    src="./assets/Designer.png" 
+    width="100%" 
+    alt="Banner com o novo estilo, Designer.png"
   />
 </p>
 
