@@ -5,7 +5,7 @@
 <p align="center">
   <img 
     src="./assets/Designer.png" 
-    width="100%" 
+    width="80%" 
     alt="Banner com o novo estilo, Designer.png"
   />
 </p>
