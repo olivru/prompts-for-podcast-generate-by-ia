@@ -68,9 +68,9 @@
 ### 🛠️ Instruções de uso
 
 1. Gerar o roteiro base com ChatGPT usando os prompts do Notion.  
-2. Use o texto gerado para criar a voz no ElevenLabs.  
-3. Gere a arte de capa com MidJourney.  
-4. Una tudo no CapCut e finalize seu podcast.  
+2. Usar o texto gerado para criar a voz no ElevenLabs.  
+3. Gerar a arte de capa com MidJourney.  
+4. Unir tudo no CapCut e finalizar seu podcast.  
 
 ---
 
