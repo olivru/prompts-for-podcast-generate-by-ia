@@ -67,7 +67,7 @@
 
 ### 🛠️ Instruções de uso
 
-1. Gere o roteiro base com ChatGPT usando os prompts do Notion.  
+1. Gerar o roteiro base com ChatGPT usando os prompts do Notion.  
 2. Use o texto gerado para criar a voz no ElevenLabs.  
 3. Gere a arte de capa com MidJourney.  
 4. Una tudo no CapCut e finalize seu podcast.  
@@ -86,9 +86,7 @@
 </p>
 
 <p>
-Sou uma entusiasta da tecnologia e da inteligência artificial.  
-Acredito que dados contam histórias — e que a IA é a caneta que as transforma em significado.  
-Este repositório é um passo dessa jornada de unir **criatividade, dados e emoção**.
+Desde muito nova eu entendi que a educação era a solução para todas as questões humanas possíveis. Hoje, por meio da tecnologia, eu comprovei essa tese.
 </p>
 
 <br clear="left"/>
@@ -96,5 +94,5 @@ Este repositório é um passo dessa jornada de unir **criatividade, dados e emo�
 ---
 
 <p align="center">
-  <em>⌨️ com 💛 e propósito por <a href="https://github.com/olivru">Rúbia C. Oliveira</a></em>
+  <em>⌨️ projeto idealizado por <a href="https://github.com/olivru">Rúbia C. Oliveira</a></em>
 </p>
