@@ -44,7 +44,6 @@
 - 🤖 [ChatGPT](https://chat.openai.com/)
 - 🎨 [MidJourney](https://www.midjourney.com/app/)
 - 🗣️ [ElevenLabs](https://beta.elevenlabs.io/)
-- 🎬 [CapCut](https://www.capcut.com/pt-br/)
 
 ---
 
@@ -53,16 +52,7 @@
 - Roteiro criado via ChatGPT  
 - Voz sintetizada pela ElevenLabs  
 - Capas geradas no MidJourney  
-- Edição e mixagem de áudio com CapCut  
 
----
-
-### 📚 Materiais e referências
-
-- [Modelo de roteiro no Notion](https://helpful-jump-17b.notion.site/PAS-Podcast-AI-Studio-210489e15d7a4a73b743bb159e45d06f?pvs=4)
-- [Editor de áudio online (CapCut)](https://www.capcut.com/editor)
-
----
 
 ### 🛠️ Instruções de uso
 
