@@ -4,9 +4,9 @@
 
 <p align="center">
   <img 
-    src="./assets/banner_rubia.png" 
+    src="./assets/Designer.png" 
     width="100%" 
-    alt="Banner com o nome Rúbia C. Oliveira, em estilo anime antigo, tons pasteis marrons e alaranjados, símbolo Inguz e flor tupi-guarani"
+    alt="Banner com o novo estilo, Designer.png"
   />
 </p>
 
@@ -75,16 +75,9 @@
 
 ## 👩‍💻 Sobre mim
 
-<p align="center">
-  <img 
-    src="./assets/Designer.png" 
-    width="100%" 
-    alt="Banner com o novo estilo, Designer.png"
-  />
-</p>
-
 <p>
-Desde muito nova eu entendi que a educação era a solução para todas as questões humanas possíveis. Hoje, por meio da tecnologia, eu comprovei essa tese.
+"Teimosa que só ela" diz Dona Realina desde o meu nascimento. Hoje, acho que é a minha maior qualidade (e ela também). 
+Nessa etapa da jornarda, em constante teimosia com o estudo de dados voltados para Machine Learning e IA Generativa.
 </p>
 
 <br clear="left"/>
