@@ -64,6 +64,16 @@
 
 ---
 
+### 🏆 Resultados
+
+| Tipo       | Arquivo / Descrição | Link |
+|------------|-------------------|------|
+| 📄 Prompt  | Prompt para Imagem do Artista — MidJourney | [midjourney.md](src/prompts/midjourney.md) |
+| 📄 Prompt  | Prompt para Roteiro — ChatGPT | [chatgpt.md](src/prompts/chatgpt.md) |
+| 🎉 Podcast | Podcast Gravado — RCO.mp3 | [RCO.mp3](src/prompts/RCO.mp3) |
+
+---
+
 ## 👩‍💻 Sobre mim
 
 <p>
