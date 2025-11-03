@@ -53,6 +53,7 @@
 - Voz sintetizada pela ElevenLabs  
 - Capas geradas no MidJourney  
 
+---
 
 ### 🛠️ Instruções de uso
 
